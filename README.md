@@ -1,4 +1,4 @@
-# Crypto project decentralization challenge
+my name is Pavel , my email is m-a-s-l-o17@mail.ru . I sent you an application for your vacancy today. I ask you to give me a chance to learn and work in your team.
 
 The objective of this challenge is to generate a comprehensive report that assesses the degree of decentralization in the crypto asset project.
 
